@@ -1,0 +1,1 @@
+web: gunicorn django3-todowoo-project-master.wsgi --log-file -
